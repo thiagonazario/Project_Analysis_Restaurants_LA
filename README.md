@@ -22,10 +22,6 @@ Este é um projeto em andamento que visa analisar o mercado para uma cafeteria c
 
 9. **Distribuição de Assentos em Ruas com Muitos Restaurantes:** Observar a distribuição de assentos em ruas com muitos restaurantes.
 
-## Em Construção
-
-Este projeto está em construção. As análises e conclusões finais ainda estão sendo desenvolvidas. Fique atento para atualizações.
-
 ## Contribuições
 
 Contribuições são bem-vindas! Se você quiser colaborar ou tiver sugestões, sinta-se à vontade para abrir issues ou pull requests.
