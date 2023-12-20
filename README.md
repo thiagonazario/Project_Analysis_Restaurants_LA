@@ -1,6 +1,6 @@
 # Projeto de Pesquisa de Mercado para Cafeteria com Garçons Robôs
 
-Este é um projeto em andamento que visa analisar o mercado para uma cafeteria com garçons robôs em Los Angeles.
+Este é um projeto que visa analisar o mercado para uma cafeteria com garçons robôs em Los Angeles.
 
 ## Perguntas a serem Respondidas
 
