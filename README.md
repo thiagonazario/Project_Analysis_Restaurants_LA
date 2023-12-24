@@ -25,3 +25,5 @@ Este é um projeto que visa analisar o mercado para uma cafeteria com garçons r
 ## Contribuições
 
 Contribuições são bem-vindas! Se você quiser colaborar ou tiver sugestões, sinta-se à vontade para abrir issues ou pull requests.
+
+<iframe src="https://giphy.com/embed/STwJ5LwAN05bO" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cafe-STwJ5LwAN05bO">via GIPHY</a></p>
