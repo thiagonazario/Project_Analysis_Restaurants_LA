@@ -26,4 +26,4 @@ Este é um projeto que visa analisar o mercado para uma cafeteria com garçons r
 
 Contribuições são bem-vindas! Se você quiser colaborar ou tiver sugestões, sinta-se à vontade para abrir issues ou pull requests.
 
-![GIF Animado](https://giphy.com/embed/STwJ5LwAN05bO)
+![GIF Animado]("https://giphy.com/embed/STwJ5LwAN05bO")
